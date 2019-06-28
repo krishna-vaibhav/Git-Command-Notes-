@@ -1,0 +1,16 @@
+1.	Install github
+2.	Run gitbash command line
+3.	Create folder
+4.	Initialize git inside the folder by  “git init” command.
+5.	Add the file to folder.
+6.	Run “git add –A” to add all the file to the git folder or git add . to add single file.
+7.	After add commit by “git commit –m ‘comment’” .
+8.	Create directory inside github.
+9.	Add this directory as remote directory by “git remote add origin ‘filepath of github’”.
+10.	Push all commit to github by “git push origin master”.
+11.	For creating another branch “git branch ‘branchname’”.
+12.	For checking status “git status”.
+13.	For checking branch “git branch”.
+14.	Go to one branch to other “git checkout ‘branchname’”.
+15.	To copy one branch to other  “git rebase ‘branchname’”.
+16.	To get all details about git configuration “git config –list”.
